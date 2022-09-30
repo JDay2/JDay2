@@ -12,7 +12,7 @@ https://github.com/JDay2/PocketCaddy
 Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-day-ba7b60249/)
 
 Current project/learning:
-
+Kotlin
 
 
 ### :hammer_and_wrench: Languages and Tools :
