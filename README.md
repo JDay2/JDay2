@@ -1,7 +1,7 @@
 ### Hello! :smiley: 
 My name is Jacob Day, and I am a computer science student at High Point University.
 
-I am looking for an internship or an entry-level position in a CS related field. 
+I am looking for an entry-level position in a CS related field. 
 
 Some of my projects that I am proud of:
 
