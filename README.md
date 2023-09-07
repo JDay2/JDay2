@@ -5,8 +5,8 @@ I am looking for an entry-level position in a CS related field.
 
 Some of my projects that I am proud of:
 
-https://github.com/JDay2/Portfolio
-(computational physics portfolio)
+https://github.com/JDay2/Portfolio          (computational physics portfolio)
+
 
 
 https://github.com/JDay2/PocketCaddy
