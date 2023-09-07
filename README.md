@@ -5,10 +5,13 @@ I am looking for an entry-level position in a CS related field.
 
 Some of my projects that I am proud of:
 
-
+(computational physics portfolio)
 https://github.com/JDay2/Portfolio
 
 https://github.com/JDay2/PocketCaddy
+
+https://github.com/JDay2/StudentRegistrationSystem
+
 
 Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-day00/)
 
