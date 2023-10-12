@@ -17,7 +17,7 @@ https://github.com/JDay2/StudentRegistrationSystem
 Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-day00/)
 
 Current project/learning:
-Student Registration System for software engineering
+React app hosted on Azure (not public right now)
 
 
 ### :hammer_and_wrench: Languages and Tools :
