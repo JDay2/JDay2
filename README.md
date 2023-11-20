@@ -17,7 +17,7 @@ https://github.com/JDay2/StudentRegistrationSystem
 Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-day00/)
 
 Current project/learning:
-React app hosted on Azure (not public right now)
+AZ900 test on dec 7th :)
 
 
 ### :hammer_and_wrench: Languages and Tools :
