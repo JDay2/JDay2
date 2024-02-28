@@ -1,5 +1,5 @@
 ### Hello! :smiley: 
-My name is Jacob Day, and I am a computer science student at High Point University.
+My name is Jacob Day, and I am a computer science graduate from High Point University currently working for Hitachi Energy.
 
 I am looking for an entry-level position in a CS related field. 
 
@@ -16,8 +16,7 @@ https://github.com/JDay2/StudentRegistrationSystem
 
 Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-day00/)
 
-Current project/learning:
-AZ900 test on dec 7th :)
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
